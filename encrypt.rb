@@ -4,7 +4,7 @@
 # (c) goodprogrammer.ru
 # 
 # ---
-
+# 
 # Удалили метод sha2
 require 'digest'
 
