@@ -4,6 +4,7 @@
 # 
 # (c) goodprogrammer.ru
 # 
+# Добавлен дополнительный метод шифрования SHA2
 # ---
 
 require 'digest'
